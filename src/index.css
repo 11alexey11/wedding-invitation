@@ -1,0 +1,29 @@
+html {
+    width: 100vw;
+    height: 100vh;
+    font-family: "Marck Script", 'Open Sans', cursive;
+    font-style: normal;
+}
+
+body {
+    width: 100%;
+    height: 100%;
+}
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+#root {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100%;
+}
+
+:root {
+    font-size: 10px;
+}
